@@ -209,3 +209,7 @@ __marimo__/
 
 # Personal Claude preferences
 CLAUDE.local.md
+
+# Data files (raw and processed)
+data/raw/
+data/processed/
